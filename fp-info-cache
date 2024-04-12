@@ -1,4 +1,4 @@
-22711250855484968
+22711250845891964
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -93728,7 +93728,7 @@ SMD_BD5.6-D4.1
 
 0
 4
-1
+4
 encoder
 circuit_bridge
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 1 copper strip
